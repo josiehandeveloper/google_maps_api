@@ -85,7 +85,6 @@ Future<Locations> getGoogleOffices() async {
   try {
     final response = await http.get(Uri.parse(googleLocationsURL));
     if (response.statusCode == 200) {
-      print(response);
       return Locations.fromJson(json.decode(response.body));
     }
   } catch (e) {
