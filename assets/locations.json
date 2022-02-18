@@ -1,0 +1,602 @@
+[
+    {
+    "id": 5058626,
+    "lat": 34.045102,
+    "lon": -118.714422,
+    "name": "Chumash Ridge",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5058627,
+    "lat": 34.044143,
+    "lon": -118.71174100000002,
+    "name": "Towers",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5058628,
+    "lat": 34.044221,
+    "lon": -118.70896600000005,
+    "name": "Law School",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5058629,
+    "lat": 34.039756,
+    "lon": -118.70655699999998,
+    "name": "Main Campus",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5058630,
+    "lat": 34.035894,
+    "lon": -118.68548199999998,
+    "name": "Cross Creek",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5058631,
+    "lat": 34.034265,
+    "lon": -118.695354,
+    "name": "Ralphs",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5058632,
+    "lat": 34.035953,
+    "lon": -118.68546100000005,
+    "name": "Cross Creek",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5058633,
+    "lat": 34.034239,
+    "lon": -118.695376,
+    "name": "Ralphs",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5058634,
+    "lat": 34.039762,
+    "lon": -118.706453,
+    "name": "Main Campus",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5058635,
+    "lat": 34.044462,
+    "lon": -118.70887399999998,
+    "name": "Page / Law School",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5058636,
+    "lat": 34.043612,
+    "lon": -118.712676,
+    "name": "Benton Way / Huntsinger",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5058637,
+    "lat": 34.045132,
+    "lon": -118.71433100000002,
+    "name": "Chumash Ridge",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5056273,
+    "lat": 34.039798,
+    "lon": -118.706517,
+    "name": "Orange Main Campus",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5056274,
+    "lat": 34.041783,
+    "lon": -118.707735,
+    "name": "Orange Communication and Business Bulding",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5056275,
+    "lat": 34.04295,
+    "lon": -118.70843,
+    "name": "Orange Assistance Center",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5056276,
+    "lat": 34.04461,
+    "lon": -118.70891,
+    "name": "Orange Page/Law School",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5056277,
+    "lat": 34.045271,
+    "lon": -118.711031,
+    "name": "Orange Facilities/ Mail/ Print Services",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5056278,
+    "lat": 34.043704,
+    "lon": -118.712794,
+    "name": "Orange Huntsinger Benton Way",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5056279,
+    "lat": 34.043758,
+    "lon": -118.715213,
+    "name": "Orange Lower Drescher Dorms",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5056280,
+    "lat": 34.045149,
+    "lon": -118.714301,
+    "name": "Orange Upper Drescher Dorm",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5056281,
+    "lat": 34.045991,
+    "lon": -118.713855,
+    "name": "Orange Executive Center/ Villa",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5056282,
+    "lat": 34.047462,
+    "lon": -118.71456,
+    "name": "Graziadio Business School",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5056283,
+    "lat": 34.046295,
+    "lon": -118.716107,
+    "name": "Via De Casa",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5056284,
+    "lat": 34.045075,
+    "lon": -118.714359,
+    "name": "Chumash Circle",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5056285,
+    "lat": 34.043469,
+    "lon": -118.715445,
+    "name": "Benton Way / Catalina",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5056286,
+    "lat": 34.043632,
+    "lon": -118.712844,
+    "name": "Benton Way/ Huntsinger",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5056287,
+    "lat": 34.040949,
+    "lon": -118.712977,
+    "name": "Seaside Residence",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5056288,
+    "lat": 34.037864,
+    "lon": -118.710073,
+    "name": "Firestone Fieldhouse",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5056289,
+    "lat": 34.036653,
+    "lon": -118.707908,
+    "name": "Alumni Park",
+    "stopCode": null,
+    "rtpiNumber": ""
+    },
+    {
+    "id": 5126886,
+    "lat": 34.045986,
+    "lon": -118.713901,
+    "name": "Villa Graziadio Executive Center",
+    "stopCode": null,
+    "rtpiNumber": "1"
+    },
+    {
+    "id": 5126887,
+    "lat": 34.047479,
+    "lon": -118.714469,
+    "name": "Graziadio Business School",
+    "stopCode": null,
+    "rtpiNumber": "2"
+    },
+    {
+    "id": 5126888,
+    "lat": 34.045032,
+    "lon": -118.714297,
+    "name": "Chumash Circle",
+    "stopCode": null,
+    "rtpiNumber": "3"
+    },
+    {
+    "id": 5126889,
+    "lat": 34.04346,
+    "lon": -118.715433,
+    "name": "Benton Way/Catalina",
+    "stopCode": null,
+    "rtpiNumber": "4"
+    },
+    {
+    "id": 5126890,
+    "lat": 34.043626,
+    "lon": -118.712845,
+    "name": "Benton Way/Huntsinger (Southbound)",
+    "stopCode": null,
+    "rtpiNumber": "5"
+    },
+    {
+    "id": 5126894,
+    "lat": 34.03977809563796,
+    "lon": -118.7064775509262,
+    "name": "Main Campus",
+    "stopCode": null,
+    "rtpiNumber": "9"
+    },
+    {
+    "id": 5126895,
+    "lat": 34.04174,
+    "lon": -118.707625,
+    "name": "Center for Communication and Business",
+    "stopCode": null,
+    "rtpiNumber": "10"
+    },
+    {
+    "id": 5126896,
+    "lat": 34.042919,
+    "lon": -118.708398,
+    "name": "Student Assistance Center",
+    "stopCode": null,
+    "rtpiNumber": "11"
+    },
+    {
+    "id": 5126897,
+    "lat": 34.044564,
+    "lon": -118.708849,
+    "name": "Page/Caruso School of Law",
+    "stopCode": null,
+    "rtpiNumber": "12"
+    },
+    {
+    "id": 5126898,
+    "lat": 34.045173,
+    "lon": -118.711145,
+    "name": "Facilities/Mail/Print Services",
+    "stopCode": null,
+    "rtpiNumber": "13"
+    },
+    {
+    "id": 5126899,
+    "lat": 34.04371,
+    "lon": -118.712786,
+    "name": "Huntsinger/Benton Way (Nouthbound)",
+    "stopCode": null,
+    "rtpiNumber": "14"
+    },
+    {
+    "id": 5126900,
+    "lat": 34.043661,
+    "lon": -118.715243,
+    "name": "Lower Drescher Student Residences",
+    "stopCode": null,
+    "rtpiNumber": "15"
+    },
+    {
+    "id": 5126901,
+    "lat": 34.045151,
+    "lon": -118.71431,
+    "name": "Upper Drescher Student Residences",
+    "stopCode": null,
+    "rtpiNumber": "16"
+    },
+    {
+    "id": 5127158,
+    "lat": 34.044086,
+    "lon": -118.711714,
+    "name": "Rockwell Towers",
+    "stopCode": "001",
+    "rtpiNumber": "33"
+    },
+    {
+    "id": 5127159,
+    "lat": 34.045215,
+    "lon": -118.710864,
+    "name": "Facilities/Mail/Printing Services",
+    "stopCode": "002",
+    "rtpiNumber": "34"
+    },
+    {
+    "id": 5127160,
+    "lat": 34.044262,
+    "lon": -118.708945,
+    "name": "Caruso School of Law",
+    "stopCode": "003",
+    "rtpiNumber": "35"
+    },
+    {
+    "id": 5127161,
+    "lat": 34.041904,
+    "lon": -118.708685,
+    "name": "Center for Communication and Business",
+    "stopCode": "004",
+    "rtpiNumber": "36"
+    },
+    {
+    "id": 5127162,
+    "lat": 34.039706,
+    "lon": -118.706445,
+    "name": "Main Campus",
+    "stopCode": "005",
+    "rtpiNumber": "37"
+    },
+    {
+    "id": 5127163,
+    "lat": 34.036784241629796,
+    "lon": -118.70807041352654,
+    "name": "Alumni Park",
+    "stopCode": "006",
+    "rtpiNumber": "38"
+    },
+    {
+    "id": 5127164,
+    "lat": 34.038144712876615,
+    "lon": -118.71025079265976,
+    "name": "Firestone Fieldhouse",
+    "stopCode": "007",
+    "rtpiNumber": "39"
+    },
+    {
+    "id": 5127165,
+    "lat": 34.04154486858703,
+    "lon": -118.713271244215,
+    "name": "Seaside Residence Hall",
+    "stopCode": "008",
+    "rtpiNumber": "40"
+    },
+    {
+    "id": 5127166,
+    "lat": 34.043105,
+    "lon": -118.712957,
+    "name": "Rho/Lovernich Apartments",
+    "stopCode": "009",
+    "rtpiNumber": "41"
+    },
+    {
+    "id": 5129893,
+    "lat": 34.037844,
+    "lon": -118.686219,
+    "name": "Whole Foods",
+    "stopCode": null,
+    "rtpiNumber": "42"
+    },
+    {
+    "id": 5129894,
+    "lat": 34.03782,
+    "lon": -118.68615799999998,
+    "name": "Whole Foods",
+    "stopCode": null,
+    "rtpiNumber": "43"
+    },
+    {
+    "id": 5150879,
+    "lat": 34.046018,
+    "lon": -118.713787,
+    "name": "Executive Center / Villa",
+    "stopCode": null,
+    "rtpiNumber": "44"
+    },
+    {
+    "id": 5150884,
+    "lat": 34.044131,
+    "lon": -118.711724,
+    "name": "Towers / Health Center",
+    "stopCode": null,
+    "rtpiNumber": "49"
+    },
+    {
+    "id": 5150887,
+    "lat": 34.041786,
+    "lon": -118.707581,
+    "name": "Center for Communications and Business ",
+    "stopCode": null,
+    "rtpiNumber": "52"
+    },
+    {
+    "id": 5150893,
+    "lat": 34.043678,
+    "lon": -118.712715,
+    "name": "Benton Way / Huntsinger (Northbound)",
+    "stopCode": null,
+    "rtpiNumber": "58"
+    },
+    {
+    "id": 5150895,
+    "lat": 34.045185,
+    "lon": -118.714337,
+    "name": "Upper Drescher Dorms",
+    "stopCode": null,
+    "rtpiNumber": "60"
+    },
+    {
+    "id": 5056283,
+    "lat": 34.046295,
+    "lon": -118.716107,
+    "name": "Via De Casa",
+    "stopCode": null,
+    "rtpiNumber": "61"
+    },
+    {
+    "id": 5056283,
+    "lat": 34.046295,
+    "lon": -118.716107,
+    "name": "Via De Casa",
+    "stopCode": null,
+    "rtpiNumber": "63"
+    },
+    {
+    "id": 5127165,
+    "lat": 34.04154486858703,
+    "lon": -118.713271244215,
+    "name": "Seaside Residence Hall",
+    "stopCode": "008",
+    "rtpiNumber": "64"
+    },
+    {
+    "id": 5127164,
+    "lat": 34.038144712876615,
+    "lon": -118.71025079265976,
+    "name": "Firestone Fieldhouse",
+    "stopCode": "007",
+    "rtpiNumber": "65"
+    },
+    {
+    "id": 5127163,
+    "lat": 34.036784241629796,
+    "lon": -118.70807041352654,
+    "name": "Alumni Park",
+    "stopCode": "006",
+    "rtpiNumber": "66"
+    },
+    {
+    "id": 5126887,
+    "lat": 34.047479,
+    "lon": -118.714469,
+    "name": "Graziadio Business School",
+    "stopCode": null,
+    "rtpiNumber": "81"
+    },
+    {
+    "id": 5126888,
+    "lat": 34.045032,
+    "lon": -118.714297,
+    "name": "Chumash Circle",
+    "stopCode": null,
+    "rtpiNumber": "82"
+    },
+    {
+    "id": 5126889,
+    "lat": 34.04346,
+    "lon": -118.715433,
+    "name": "Benton Way/Catalina",
+    "stopCode": null,
+    "rtpiNumber": "83"
+    },
+    {
+    "id": 5126890,
+    "lat": 34.043626,
+    "lon": -118.712845,
+    "name": "Benton Way/Huntsinger (Southbound)",
+    "stopCode": null,
+    "rtpiNumber": "84"
+    },
+    {
+    "id": 5126900,
+    "lat": 34.043661,
+    "lon": -118.715243,
+    "name": "Lower Drescher Student Residences",
+    "stopCode": null,
+    "rtpiNumber": "85"
+    },
+    {
+    "id": 5127159,
+    "lat": 34.045215,
+    "lon": -118.710864,
+    "name": "Facilities/Mail/Printing Services",
+    "stopCode": "002",
+    "rtpiNumber": "86"
+    },
+    {
+    "id": 5127160,
+    "lat": 34.044262,
+    "lon": -118.708945,
+    "name": "Caruso School of Law",
+    "stopCode": "003",
+    "rtpiNumber": "87"
+    },
+    {
+    "id": 5127162,
+    "lat": 34.039706,
+    "lon": -118.706445,
+    "name": "Main Campus",
+    "stopCode": "005",
+    "rtpiNumber": "88"
+    },
+    {
+    "id": 5127163,
+    "lat": 34.036784241629796,
+    "lon": -118.70807041352654,
+    "name": "Alumni Park",
+    "stopCode": "006",
+    "rtpiNumber": "89"
+    },
+    {
+    "id": 5127164,
+    "lat": 34.038144712876615,
+    "lon": -118.71025079265976,
+    "name": "Firestone Fieldhouse",
+    "stopCode": "007",
+    "rtpiNumber": "90"
+    },
+    {
+    "id": 5127165,
+    "lat": 34.04154486858703,
+    "lon": -118.713271244215,
+    "name": "Seaside Residence Hall",
+    "stopCode": "008",
+    "rtpiNumber": "91"
+    },
+    {
+    "id": 5127166,
+    "lat": 34.043105,
+    "lon": -118.712957,
+    "name": "Rho/Lovernich Apartments",
+    "stopCode": "009",
+    "rtpiNumber": "92"
+    }
+    ]
